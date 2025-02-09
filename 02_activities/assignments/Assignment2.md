@@ -181,6 +181,14 @@ Read: Boykis, V. (2019, October 16). _Neural nets are just people all the way do
 Consider, for example, concepts of labour, bias, LLM proliferation, moderating content, intersection of technology and society, ect. 
 
 
-```
-Your thoughts...
-```
+ - The ethical issues in this story:
+
+ - The creation of ImageNet relies heavily on human labout, often through platforms like Amazon. Workers are paid very little for tasks that are crucial for machine learning process, raising concerns about fair compensation.
+
+ - The manual labeling of images, while essential for training AI models, introduces human bias. Workers’ individual perspectives can influence how images are categorized, leading to biased datasets that can perpetuate stereotypes or discrimination.
+
+ - AI systems can mislabel people or objects in harmful ways, raising concerns about the reliability of the data used to train these systems.
+
+ - The use of AI technologies, particularly in facial recognition, brings up issues of privacy and surveillance. AI systems are increasingly used to monitor and track individuals, raising concerns about consent, the potential for misuse, and the erosion of privacy rights.
+
+ - Fast advancement of AI and Machine learning results in displacement of jobs and the concentration of power in the hands of a few tech companies. 
