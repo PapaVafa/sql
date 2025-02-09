@@ -56,8 +56,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
-
-***
+![Blank diagram](https://github.com/user-attachments/assets/c3340363-5c9c-4a46-b506-5b6cce348aef)
 
 ## Section 2:
 You can start this section following *session 4*.
