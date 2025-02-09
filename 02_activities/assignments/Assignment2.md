@@ -53,9 +53,8 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
-```
-Your answer...
-```
+![Blank diagram](https://github.com/user-attachments/assets/996efc56-3f5a-444a-8030-d8ad4116b79d)
+
 
 ***
 
